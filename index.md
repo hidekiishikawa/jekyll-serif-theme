@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme
+title: Ana's Company
 layout: home
 description: Ana's Company is a commericial & residential cleaning business located in Portland, OR.
 intro_image: "images/illustrations/pointing.svg"
